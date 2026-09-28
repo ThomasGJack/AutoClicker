@@ -1,0 +1,9 @@
+# Installateur du pilote Interception (a telecharger depuis le depot officiel)
+_interception_setup/
+*.zip
+
+# OS / outils
+Thumbs.db
+.DS_Store
+.claude/
+.claude-flow/
